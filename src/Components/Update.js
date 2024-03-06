@@ -43,7 +43,7 @@ function Update() {
                             onChange={(e) => setAge(e.target.value)} required value={age}></input>
                     </div>
                     <div className="ms-2 mt-2">
-                        <label className="">Mobile.No</label>
+                        <label className="">MobileNo</label>
                         <input type="text" className="form-control mt-2" placeholder="Enter Mobile no..."
                             onChange={(e) => setMobile(e.target.value)} required value={mobile}></input>
                     </div>

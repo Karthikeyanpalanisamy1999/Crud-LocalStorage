@@ -22,7 +22,7 @@ function Read() {
                   <table className="table mt-3">     
                       <thead>
                           <tr>
-                          <th>S.no</th>
+                          <th>Sno</th>
                           <th>Name</th>
                           <th>Age</th>
                           <th>Mobile.no</th>
